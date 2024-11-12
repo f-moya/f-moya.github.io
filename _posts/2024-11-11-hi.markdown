@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hi!"
+date:   2024-11-11 20:29:07 -0300
+categories: jekyll update
+---
+
+Today marks the day that I started my personal blog.
+
+Today is a good day 😀
