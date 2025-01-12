@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 Hi, I’m Federico Moyá, a passionate software engineer with a strong foundation in full-stack web development, cloud infrastructure, and security. I specialize in building and scaling high-performance applications, particularly in SaaS environments, and I have extensive experience working with technologies like Ruby on Rails, React, Typescript, Node.js, AWS, Docker, and PostgreSQL.
