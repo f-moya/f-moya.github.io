@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Federico Moyá</title>
   <subtitle>Federico Moyá's personal web page.</subtitle>
-  <updated>2025-01-12T18:04:58-03:00</updated>
+  <updated>2025-03-29T22:29:20-03:00</updated>
   <author>
     <name>Federico Moyá</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Hi!</title>
-    <link href="http://localhost:4000/posts/hi/" rel="alternate" type="text/html" title="Hi!" />
-    <published>2024-11-11T20:29:07-03:00</published>
+    <title>Async Rust: When to Use It and When to Avoid It</title>
+    <link href="http://localhost:4000/posts/async-rust/" rel="alternate" type="text/html" title="Async Rust: When to Use It and When to Avoid It" />
+    <published>2025-02-25T20:29:07-03:00</published>
   
-    <updated>2024-11-11T20:29:07-03:00</updated>
+    <updated>2025-02-25T20:29:07-03:00</updated>
   
-    <id>http://localhost:4000/posts/hi/</id>
-    <content type="text/html" src="http://localhost:4000/posts/hi/" />
+    <id>http://localhost:4000/posts/async-rust/</id>
+    <content type="text/html" src="http://localhost:4000/posts/async-rust/" />
     <author>
       <name>Federico Moyá</name>
     </author>
@@ -38,7 +38,16 @@
     
   
 
-  <summary>Today marks the day that I started my personal blog 🎉</summary>
+  <summary>Introduction
+
+“Asynchronous” (often abbreviated as “async”) is a widely used term in computer science, but its meaning varies depending on the context.
+
+In this article, we will focus on a definition that captures its essence in software development:
+
+
+
+
+  Asynchronous programming is a technique that enables your program to start a potentially long-running task and still be able to be responsiv...</summary>
 
   </entry>
 
